@@ -1,0 +1,4 @@
+user Name: u1NmXqCzBg
+database name : u1NmXqCzBg
+host: remotemysql.com
+password: EyFufOlYnJ

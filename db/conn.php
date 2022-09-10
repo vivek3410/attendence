@@ -1,9 +1,15 @@
 <?php
   // development connection
-  $host = 'localhost';
-  $db = 'attendence_db';
-  $user = 'root';
-  $pass = '';
+  // $host = 'localhost';
+  // $db = 'attendence_db';
+  // $user = 'root';
+  // $pass = '';
+  // $charset = 'utf8mb4';
+// remote db connection.
+  $host = 'remotemysql.com';
+  $db = 'u1NmXqCzBg';
+  $user = 'u1NmXqCzBg';
+  $pass = 'EyFufOlYnJ';
   $charset = 'utf8mb4';
 // dsn - data source name
   $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
